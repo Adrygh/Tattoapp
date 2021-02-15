@@ -1,0 +1,14 @@
+C:\Users\agper\source\repos\TattooAppAdry\TattooAppAdry\bin\Debug\TattooAppAdry.exe.config
+C:\Users\agper\source\repos\TattooAppAdry\TattooAppAdry\bin\Debug\TattooAppAdry.exe
+C:\Users\agper\source\repos\TattooAppAdry\TattooAppAdry\bin\Debug\TattooAppAdry.pdb
+C:\Users\agper\source\repos\TattooAppAdry\TattooAppAdry\obj\Debug\TattooAppAdry.csprojAssemblyReference.cache
+C:\Users\agper\source\repos\TattooAppAdry\TattooAppAdry\obj\Debug\TattooAppAdry.InsertarVendedor.resources
+C:\Users\agper\source\repos\TattooAppAdry\TattooAppAdry\obj\Debug\TattooAppAdry.Properties.Resources.resources
+C:\Users\agper\source\repos\TattooAppAdry\TattooAppAdry\obj\Debug\TattooAppAdry.csproj.GenerateResource.cache
+C:\Users\agper\source\repos\TattooAppAdry\TattooAppAdry\obj\Debug\TattooAppAdry.csproj.CoreCompileInputs.cache
+C:\Users\agper\source\repos\TattooAppAdry\TattooAppAdry\obj\Debug\TattooAppAdry.exe
+C:\Users\agper\source\repos\TattooAppAdry\TattooAppAdry\obj\Debug\TattooAppAdry.pdb
+C:\Users\agper\source\repos\TattooAppAdry\TattooAppAdry\obj\Debug\TattooAppAdry.Form1.resources
+C:\Users\agper\source\repos\TattooAppAdry\TattooAppAdry\obj\Debug\TattooAppAdry.ConsultarVendedores.resources
+C:\Users\agper\source\repos\TattooAppAdry\TattooAppAdry\obj\Debug\TattooAppAdry.ModificarVendedor.resources
+C:\Users\agper\source\repos\TattooAppAdry\TattooAppAdry\obj\Debug\TattooAppAdry.EliminarVendedor.resources
